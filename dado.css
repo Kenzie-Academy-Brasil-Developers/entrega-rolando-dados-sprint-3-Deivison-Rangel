@@ -1,0 +1,10 @@
+.dado{
+    text-align: center;
+    background-image: url(/depositphotos_20317479-stock-photo-white-dice.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+.dadoss p{
+    color: deeppink;
+}
